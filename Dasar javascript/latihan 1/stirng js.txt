@@ -1,0 +1,48 @@
+belajar JS 
+ 
+MATERI STRING
+Tipe data string dalam javascript digunakan untuk merepresentasikan 
+data tekstual / plain text
+
+untuk menggunakan string gunakan " " / ' ' fungsinya sama
+contoh "mahesa adi kusuma" / 'mahesa adi kusuma'
+
+contoh "hari ini adalah hari jum'at" kalo ada yang karakter kutip satu gunakan 
+stringnya kutip 2 ("") sebaliknya
+'kami sedang mengadakan kegiatan "gerakan pungut sampah"' ada karakter
+kutip 2 gunakan kutip 1(')
+
+Contoh ""gerakan pungut sampah" dilaksanakan pada hari jum'at" hasilnya
+stringnya akan eror
+
+
+ESCAPE CHARACTER
+escape character itu menambahkan \" atau \' pada string
+
+contoh' "gerakan pungut sampah" dilaksanakan pada hari jum\'at'
+
+contoh "\"gerakan pungut sampah \" dilaksanakan pada hari jum'at"
+
+
+escape character dan hasil
+\0 = karakter nu
+\' = '
+\" = "
+\\ = \
+\n = new line / garis baru
+\t = tab
+\b = backspace
+\uxxx = unicode
+
+UNICODE dan hasil
+\u00A9 copyright
+\u00AE LAMBANG R
+\U00B1 +- LEBIH KURANG
+dll
+
+Concatenation / konkatenasi +
+"Mahesa Adi Kusuma" == "mahesa adi kusuma" sama dengan false
+
+FUNGSI DARI STRING 
+.legh mengintung panjang string
+"Mahesa Adi Kusuma".length hasilnya 17 itu dari 17 karakter nama 

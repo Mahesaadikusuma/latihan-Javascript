@@ -1,0 +1,8 @@
+Belajar js 
+
+MATERI POPUP BOX 
+popup box/ dialog box
+ada 3 buah popup box 
+1.alert = alert('hello world'); 
+2.prompt = prompt('masukan nama');
+3.confirm = confir('kamu yakin')

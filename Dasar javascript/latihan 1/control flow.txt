@@ -1,0 +1,58 @@
+belajar js
+
+MATERI CONTROL FLOW / ALUR KENDALI
+
+normal flow
+"Apabila program kita memiliki lebih dari satu statement maka statement
+tersebut akan dieksekusi dari atas ke bawah atau dari kiri ke kanan
+
+Contoh 
+
+alert("halo");
+alert("nama");
+alert("saya");
+alert("mahesaadi");
+alert("kusuma");
+
+var angka = prompt('masukan angka');
+alert('angka yang anda masukan adalah : ' + angka);
+
+control flow
+pengulangan / loop / iteration = panah lurus ke bawah 
+systax pengulangan 
+1.for
+2.while
+3.do while
+
+contoh
+alert('mulai);
+alert('hello world');
+alert('hello world');
+alert('hello world');
+alert('hello world');
+alert('hello world');
+alert('selesai');
+
+diganti dengan sintax
+alert('mulai')
+for(var i = 0; i <5; i++) {
+alert('hello world');
+}
+alert('selesai')
+
+
+pengkondisian
+pengkodisian / percabangan
+1.if
+2.if..
+3.else
+4.else if..
+5.else
+6.switch
+
+var angka = prompt('masukan angka :');
+if( angka % 2 == 0) {
+alert(angka + 'adalah bilangan genap');
+} else {
+alert(angka + ' adalah bilangan ganjil');
+}

@@ -1,0 +1,45 @@
+Belajar js
+
+Materi Variabel 
+Sebuah 'tempat/wadah' yang memiliki nama, yang digunakan untuk menyimpan 
+nilai
+
+Pahami 3 hal
+1.deklarasi adalah mendaftarkan variabel ke dalam lingkup yang sesuai
+2.inisialisasi adalah menyediakan memori untuk variabel
+3.assignment adalah menetapkan nilai yang spesifik ke dalam variabel
+
+contoh 
+var x; // deklarasi & inisialisasi 
+x =20; // assigment
+
+Deklarasi variabel
+1.var yg akan di pelajari
+var <nama variabel>
+
+var ga boleh pake spasi; 
+var 1gaboleh;
+var boleh1
+
+var ini_juga_boleh;
+var boleh$;
+var $_$;
+var inibolehbanget;
+var namaVariabelPanjang; // camel case
+
+Shorthand
+var nama;
+var umur;
+var lulus;
+
+nama = "mahesa"
+umur = "18";
+lulus = true;
+
+var nama = "mahesa",
+    umur = 18,
+    lulus = true.
+
+
+2.let
+3.const

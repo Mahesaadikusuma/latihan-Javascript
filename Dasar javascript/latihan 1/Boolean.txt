@@ -1,0 +1,30 @@
+belajar js 
+
+MATERI BOOLEAN
+Sebuah tipe data yang digunakan untuk merepresentasikan logika TRUE atau 
+False
+
+Biasanya boolean digunakan pada statement Pengkondisian untuk menentukan 
+aksi yang berbeda dan mengatur alur kendali program 
+
+contoh
+var x = 10;
+x < 20 hasilnya true
+
+"Mahesa" == "mahesa"
+apakah string mahesa yang huruf besar sama dengan mahesa dengan huruf kecil
+hasilnya false 
+
+Boolean(nilai)
+contoh Boolean(10 < 20) hasilnya true
+Boolean(10) hasilnya true 
+Boolean("mahesa")
+Boolean(0) hasil false
+
+truthy dan faisy
+true = false
+non-zero number = 0
+"string" = ""
+object = undefined
+arrays = null
+functions = NaN

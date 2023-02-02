@@ -1,0 +1,48 @@
+Latihan JAVASCRIPT
+
+Operator pada js aritmatika, penugasan, & perbandingan
+Operator terdiri dari 
+-Aritmatika 
+-penugasan 
+-perbandingan
+-logika
+-string
+-kondisional
+-typeof
+
+Operator Aritmatika sampai Srting disebut operator binary
+Operator Kondisonal disebut operator ternary
+Operator Typeof disebut operator unary
+
+Binary 
+membutuhkan 2 operand
+
+operand 1  operator  operand 2  contohnya seperti mtk 1+!
+
+Unary 
+membutuhkan 1 operand
+Operator operand atau operand operator
+
+Ternary
+membutukan 3 operand
+operand 1 operand 2 operator operand 3
+
+
+OPERATOR ARITMATIKA 
++, -, *, /,    % disebut modulo/modulus/sisa bagi  
+
+OPERATOR PRECEDENCE
+urutan operasi matematika
+KUKABATAKU = () * / + -
+
+OPERATOR PENUGASAN 
+Penugasan / assignment tanda =
+=
++=x+=5
+15
+-=
+*=
+/=
+%=
+
+

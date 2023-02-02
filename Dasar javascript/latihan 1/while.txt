@@ -1,0 +1,40 @@
+BELAJAR JS
+
+MATERI WHILE 
+
+SINTAX
+while(kondisi) {
+aksi
+}
+
+Selama kondisi bernilai true maka lakukan aksi dalam blok{} jika false
+maka tidak lakukan aksi
+
+contoh 
+while(true) {
+console.log(''hello world);
+}
+
+infinite loop / looping forever adalah sintax diatas yang dimana pengulangan 
+hello world tanpa batas
+
+contoh pengulangan
+var ulang = true;
+while(ulang) {
+console.log("hello world");
+ulang = confirm('lagi');
+}
+
+contoh
+nilai awal 
+while(kondisi terminasi) {
+aksi
+increment / decrement
+}
+
+var nilai awal = 1;
+while(nilaiawal) <= 5) {
+console.log('hello world');
+nilaiawal++;
+}
+note : nilaiawal++ itu nambah satu nambah satu
