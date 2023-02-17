@@ -6,16 +6,19 @@ console.log(this.a);
 //  MEMBUAT OBJECT
 
 // CARA 1 - function declaration
-/* function hallo() {
-  console.log("hallo");
-  console.log(this);
-}
-this.hallo(); */
+// /* function hallo() {
+//   console.log("hallo");
+//   console.log(this);
+// }
+// this.hallo();
 // this ini contoh bisa dihapus
 // this mengembalikan object global
 
 // cara 2 - object literal
-/* var obj = { a: 10, nama: "mahesa" };
+/* var obj = { 
+  a: 10, 
+  nama: "mahesa",
+};
 obj.hallo = function () {
   console.log("hallo");
   console.log(this);
