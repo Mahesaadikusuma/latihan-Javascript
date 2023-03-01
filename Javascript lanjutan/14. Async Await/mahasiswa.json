@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "mahesa Adi kusuma",
+    "NIM": "20210801134",
+    "email": "mahesa@gmail.com",
+    "jurusan": "Teknik Informatika",
+    "IdDosenWali": 1
+  },
+  {
+    "nama": "mahesa kusuma",
+    "NIM": "20210801134",
+    "email": "mahesa@gmail.com",
+    "jurusan": "Teknik Informatika",
+    "IdDosenWali": 2
+  },
+
+  {
+    "nama": "kusuma",
+    "NIM": "20210801135",
+    "email": "mahesa@gmail.com",
+    "jurusan": "Teknik Informatika",
+    "IdDosenWali": 3
+  }
+]
